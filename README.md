@@ -7,7 +7,7 @@
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
 ##  Inspiration
-<p> Thanks to <strong> codewithsadee </strong> for the inspiration! </p>
+<p> Thanks to <strong> codewithsadee </strong> for the inspiration and the template! </p>
 
 
 ## License
