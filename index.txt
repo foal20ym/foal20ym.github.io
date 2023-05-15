@@ -112,6 +112,7 @@ Experience
 Software Enginnering Intern
 2023 — Present
 Software Engineering Intern at Verendus Systems AB.
+My task has been to migrate parts of a database from MySQL to MongoDB and optimize search algorithms. I have also reconstructed parts of the dataset to save as much space as possible. 
 
 My skills
 
