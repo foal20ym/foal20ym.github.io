@@ -8,6 +8,7 @@
 
 ##  Inspiration
 <p> Thanks to <strong> codewithsadee </strong> for the inspiration and the template! </p>
+<p> Here is a link to his GitHub: https://github.com/codewithsadee </p>
 
 
 ## License
