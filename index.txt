@@ -115,14 +115,15 @@ Software Engineering Intern at Verendus Systems AB.
 
 My skills
 
-Web design
+Frontend development
 80%
-Graphic design
-70%
-Branding
+Backend development
+60%
+iOS development
 90%
-WordPress
-50%
+Android development
+70%
+
 
 
 
