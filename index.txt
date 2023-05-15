@@ -15,7 +15,7 @@ Phone
 +1 (213) 352-2795
 
 Birthday
-March 11th, 2000
+March 11, 2000
 
 Location
 Jönköping, Sweden
@@ -54,6 +54,10 @@ High-quality development of sites at the professional level.
 alt = mobile app icon
 Mobile apps
 Professional development of applications for iOS and Android.
+
+alt = backend icon
+Backend development
+Highly efficient and clean backend development for all sorts of applications.
 
 alt = camera icon
 Photography
