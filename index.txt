@@ -32,11 +32,13 @@ Contact
 
 About me
 
+
 I'm a Software Engineering student from Sweden who aspire to be a better version of myself everyday. 
+I have completed two years of my education and I am now eagerly pursuing my final year towards obtaining my Bachelor's degree.
 
-I have completed two years of my education and have one year left.
+I'm fascinated by technology and programming and love problem solving. My goal is to learn something new every single day and be the kind of person who uplifts and empowers everyone in the workplace.
 
-I'm currently a intern at Verendus System AB and my focus is backend development.
+I'm currently interning at Verendus Systems, where I'm focusing on backend development.
 
 
 ## service
