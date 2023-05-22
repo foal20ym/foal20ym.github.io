@@ -149,6 +149,10 @@ alt = Portfolio website
 Portfolio website
 Web development
 
+alt = MoneyBuzz iOS stock app
+MoneyBuzz iOS stock app
+Applications
+
 alt = iOS weather app
 iOS weather app
 Applications

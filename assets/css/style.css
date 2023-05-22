@@ -756,6 +756,7 @@ main {
 
 .clients-item img:hover { filter: grayscale(0); }
 
+.client-item-paragraph { color: white; }
 
 
 
